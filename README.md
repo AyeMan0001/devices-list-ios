@@ -20,14 +20,14 @@ This is a basic iOS application built with Swift that allows users to maintain a
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/devices-list-ios.git
+    git clone https://github.com/AyeMan0001/devices-list-ios.git
     ```
 
 2. Open the project in Xcode:
 
     ```bash
-    cd devices-list-app
-    open DevicesListApp.xcodeproj
+    cd devices-list-ios
+    open DevicesList.xcodeproj
     ```
 
 3. Build and run the project on your simulator or connected device.
