@@ -20,7 +20,7 @@ This is a basic iOS application built with Swift that allows users to maintain a
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/devices-list-app.git
+    git clone https://github.com/yourusername/devices-list-ios.git
     ```
 
 2. Open the project in Xcode:
